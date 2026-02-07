@@ -68,6 +68,5 @@ Este projeto está licenciado sob a licença MIT. Veja o ficheiro `LICENSE` para
 
 ---
 
-**Elaborado por:**  para ISCAT - Engenharia Eletrotécnica
-
-**Elaborado por:**  para ISCAT - Engenharia Eletrotécnica
+**Elaborado por:** Félix Maurício Cupatia Domingos (Chefe) - Filipe Salvador Domingos - Luciano Correia Cassua;
+ para ISCAT - Engenharia Eletrotécnica
