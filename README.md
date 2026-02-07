@@ -27,8 +27,7 @@ Para executar este programa, é necessário ter o Python instalado na sua máqui
 Não é necessária uma instalação complexa. Basta clonar este repositório ou descarregar o ficheiro `conversor.py`.
 
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/Electrotecnia/Conversor-de-Unidade
 ```
 
 ## Como Executar
